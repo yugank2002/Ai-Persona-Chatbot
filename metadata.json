@@ -1,0 +1,5 @@
+{
+  "name": "Ai Persona Chatbot",
+  "description": "A WhatsApp-style chat interface for interacting with Ai Persona, a Gemini-powered persona.",
+  "requestFramePermissions": []
+}
